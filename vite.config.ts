@@ -4,6 +4,7 @@ import svgLoader from 'vite-svg-loader'
 import { fileURLToPath, URL } from 'node:url'
 
 export default defineConfig({
+  base: '/file-upload-component/',
   plugins: [vue(), svgLoader()],
   resolve: {
     alias: {
