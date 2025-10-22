@@ -2,6 +2,10 @@
 
 Компонент загрузки файлов для Vue 3 + TypeScript
 
+## Demo
+
+https://alexanderbaikal.github.io/file-upload-component/
+
 ## Установка и запуск
 
 ```bash
